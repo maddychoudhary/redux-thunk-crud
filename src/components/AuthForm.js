@@ -12,6 +12,9 @@ const AuthForm = (props) => {
                 loading ? (
                     <div className="loader_react">
                         <Loader
+
+
+
                             type="ThreeDots"
                             color="#00BFFF"
                             height={100}
